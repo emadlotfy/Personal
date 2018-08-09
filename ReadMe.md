@@ -1,2 +1,3 @@
 # Hello GitHub
-that is my first repo here
+that is my first repo here.
+it will contain my Resume.
