@@ -1,4 +1,4 @@
 # Hello GitHub
 That is my first repo here.
 
-It will contain my Resume, and Cover Letter.
+It will contain my CV, and Cover Letter.
